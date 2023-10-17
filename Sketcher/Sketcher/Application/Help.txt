@@ -1,0 +1,77 @@
+Guide to start using Sketcher:
+	When user start the program a window will appear with 
+	two buttons. The first button "Create new" is to start
+	new file. the second button "Open" is to open an existing 
+	file.
+
+Draw walls, windows and doors:
+	To draw a wall, users have to click on the "Draw Wall" button first. 
+	After that with the mouse click on the start point of the 
+	wall, drag the and release the mouse button to mark the end
+	point of the wall.
+	To draw windows press the button "Add window" and a window 
+	shape will appear on the program panel.
+	To draw doors press the button "Add door" and a door
+	shape will appear on the program panel.
+
+Rotate windows and doors:
+	To be able to rotate windows or doors, the user have to
+	active the button with the rotate logo. After that 
+	move the mouse to shape and press on the shape. The shape 
+	will rotate 90 degree clockwise.
+
+Remove walls,windows and doors:	
+	To be able to Remove one of this three shape, the user have 
+	to press first on the button with the remove logo. After that 
+	move the mouse to shape and press on the shape with the left
+	mouse button. The shape will be removed from the program 
+	panel. 
+
+Move windows and doors:
+	To be able to move windows or doors, the user have to
+	active the button with the arrow logo. After that press
+	and hold the mouse button on the shape. Drag the mouse to 
+	the desired position and the shape will move to this position.
+
+Change to Add furniture panel:
+	Press on tools and then on "Add furniture". 
+
+Add furniture shape to the program panel:
+	Press one of the buttons that have a furniture name 
+	(Dresser, Dining Table.. etc), a furniture will be 
+	drawn to the program panel.
+
+Rotate furniture:
+	To be able to rotate furniture shape, user have to
+	active the button with the rotate logo. After that 
+	move the mouse to shape and press on the shape. The shape 
+	will rotate 90 degree clockwise.
+
+Remove furniture from the program panel:
+	To be able to Remove one of this furniture on the program 
+	panel, the user have to press first on the button with remove 
+	sempole. After that move the mouse to the shape and press on the   
+	shape with the left mouse button. The shape will be removed 
+	from the program panel.
+
+Move furniture on the program panel:	
+	To be able to move furniture, the user have to active the
+	button with the arrow logo. After that press and hold the
+	mouse button on the shape. Drag the mouse to the desired
+	position and the shape will move to this position.
+
+Show and hide shopping list:
+	To display the shopping list press on the button with
+	shopping basket sempole. To remove the shopping list
+	press again on the button with the shopping basket logo.
+
+Save and load:
+	To save data users have to choose. The first one is 
+	to save when exiting the program. The second one is
+	by choosing save from Tools.
+	User do not need to write any extension to the file, 
+	just write the name of the file and the data will be
+	saved to it.
+	To load data user can do that when entering the program 
+	by pressing on open, and then choose the file.	  
+
